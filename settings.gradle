@@ -1,0 +1,2 @@
+rootProject.name = "VoskIntegrate"
+include ':app'
