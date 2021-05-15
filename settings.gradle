@@ -1,2 +1,4 @@
 rootProject.name = "VoskIntegrate"
 include ':app'
+include ':dewivosk'
+project(':dewivosk').projectDir = new File('/home/dewi/code/vosk-api/android/lib')
