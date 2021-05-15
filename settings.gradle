@@ -1,2 +1,3 @@
 rootProject.name = "VoskIntegrate"
 include ':app'
+include ':dewimodule3'
